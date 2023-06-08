@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**jeremiahforsythe/jeremiahforsythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Jeremiah Forsythe 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Cyber security Researcher,technology enthusiast and life long learner. Im constantly bored with the world around me and Cyber security and learning Programming gives me drive and passion i need in life. When i have time im also passionate about the Forex and crpyto 
+markets 
+
+## Current Certifications
+
+Google Cyber Security Certificate 
+ 
+
+🏡 I’m from Mandan ND
+
+📚 I'm currently learning Penetration testing.
+
+---
+
+## Social Networks
+[Github Badge]
+
+https://www.linkedin.com/in/jeremiah-forsythe-73a0b572
+
+https://twitter.com/JeremiahForsyt2
+
+---
+
+## Programming Languages
+Python, Html, Css, Javascript 
