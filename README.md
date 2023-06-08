@@ -18,9 +18,8 @@ Google Cyber Security Certificate
 
 ## Social Networks and ways too contact me
 
-https://www.linkedin.com/in/jeremiah-forsythe-73a0b572
-
-https://twitter.com/JeremiahForsyt2
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-forsythe-73a0b572)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JeremiahForsyt2)
 
 ---
 
