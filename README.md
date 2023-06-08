@@ -12,12 +12,11 @@ Google Cyber Security Certificate
 
 🏡 I’m from Mandan ND
 
-📚 I'm currently learning Penetration testing.
+📚 I'm currently learning Penetration testing and Offensive Security
 
 ---
 
-## Social Networks
-[Github Badge]
+## Social Networks and ways too contact me
 
 https://www.linkedin.com/in/jeremiah-forsythe-73a0b572
 
