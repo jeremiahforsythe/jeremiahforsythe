@@ -8,6 +8,9 @@ markets
 ## Current Certifications
 
 Google Cyber Security Certificate 
+
+[View Certification](https://www.credly.com/badges/7fbf2408-8d56-4bd0-8aaf-f936fe96e9a0/linked_in_profile)
+
  
 
 🏡 I’m from Mandan ND
