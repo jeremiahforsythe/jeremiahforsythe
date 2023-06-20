@@ -2,7 +2,7 @@
 
 My name is Jeremiah Forsythe 
 
-I am a Cyber security Researcher,technology enthusiast and life long learner. Im constantly bored with the world around me and Cyber security and learning Programming gives me drive and passion i need in life. When i have time im also passionate about the Forex and crpyto 
+I am a Cyber security Researcher,technology enthusiast and life long learner. Im constantly bored with the world around me and Cyber security and learning Programming gives me the  drive and passion I need in my  life. When I have time im also passionate about the Forex and crpyto 
 markets 
 
 ## Current Certifications
@@ -14,6 +14,14 @@ Google Cyber Security Certificate
 Introduction to Cybersecurity
 
 [View Certification](https://www.credly.com/earner/earned/badge/dd6ff6ca-29ba-44e3-8cad-afdf78774909)
+
+Junior Cybersecurity Analyst Career Path
+
+
+[View Certification](https://www.credly.com/badges/b4b8d889-ce11-415c-b2e2-26e57464ff25/public_url)
+
+
+
 
 
 
