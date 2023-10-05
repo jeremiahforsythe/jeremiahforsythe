@@ -2,7 +2,7 @@
 
 My name is Jeremiah Forsythe 
 
-I am a Cyber security Researcher,technology enthusiast and life long learner. Im constantly bored with the world around me and Cyber security and learning Programming gives me the  drive and passion I need in my  life. When I have time im also passionate about the Forex and crpyto 
+I am a Cyber security Researcher,technology enthusiast and life long learner of programming and ai. Im constantly bored with the world around me and Cyber security and learning Programming gives me the  drive and passion I need in my  life. When I have time im also passionate about the Forex and crpyto 
 markets 
 
 ## Current Certifications
