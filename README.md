@@ -22,6 +22,13 @@ Junior Cybersecurity Analyst Career Path
 
 [View Certification](https://www.credly.com/badges/b4b8d889-ce11-415c-b2e2-26e57464ff25/public_url)
 
+## Sites with my other Experience 
+
+https://www.freecodecamp.org/jeremiahforsythe
+
+
+
+
 
 
 
