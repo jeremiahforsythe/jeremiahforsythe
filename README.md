@@ -5,7 +5,7 @@ My name is Jeremiah Forsythe
 I am a Cyber security Researcher,technology enthusiast and life long learner of programming and ai. Im constantly bored with the world around me and Cyber security and learning Programming gives me the  drive and passion I need in my  life. When I have time im also passionate about the Forex and crpyto
 markets
 
-Rignt now Im currently Hoping too go into Software engineering but i am also open too Devsec as well. I hope you will find my github reflective of my passions and work 
+Rignt now Im currently hoping too go into Software Engineering but I am also open too Devsec as well. I hope you will find my github reflective of my passions and work 
 
 ## Current Certifications
 
