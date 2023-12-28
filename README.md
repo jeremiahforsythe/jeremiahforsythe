@@ -40,7 +40,7 @@ https://www.freecodecamp.org/jeremiahforsythe
 
 📚 I'm currently learning Penetration testing and Offensive Security
 
-📚 I'm other goal is too be completly professional  with python 
+📚 I'm other goal is too be completly professional  and profifiecent with python and too be at software engineer level
 
  
 ---
