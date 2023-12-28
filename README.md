@@ -39,6 +39,9 @@ https://www.freecodecamp.org/jeremiahforsythe
 🏡 I’m from Mandan ND
 
 📚 I'm currently learning Penetration testing and Offensive Security
+
+📚 I'm other goal is too be completly proffessional with python 
+
  
 ---
 
