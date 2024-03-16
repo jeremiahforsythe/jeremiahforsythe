@@ -1,11 +1,7 @@
 
+My name is Jeremiah Forsythe, and I am a Cybersecurity Researcher, technology enthusiast, and lifelong learner of programming and AI. The world often seems dull to me, but the ever-evolving realms of Cybersecurity and programming ignite my drive and passion. In my free time, I delve into the Forex and crypto markets, another area of keen interest for me.
 
-My name is Jeremiah Forsythe 
-
-I am a Cyber security Researcher,technology enthusiast and life long learner of programming and ai. Im constantly bored with the world around me and Cyber security and learning Programming gives me the  drive and passion I need in my  life. When I have time im also passionate about the Forex and crpyto
-markets
-
-Rignt now Im currently hoping too go into Software Engineering but I am also open too Devsec as well. I hope you will find my github reflective of my passions and work 
+Currently, I am aspiring to transition into Software Engineering, while also remaining open to opportunities in DevSecOps. I hope my GitHub reflects my dedication and passion for these fields.
 
 ## Current Certifications
 
@@ -37,10 +33,13 @@ https://www.freecodecamp.org/jeremiahforsythe
  
 
 🏡 I’m from Mandan ND
+Personal Information:
 
-📚 I'm currently learning Penetration testing and Offensive Security
-
-📚 I'm other goal is too be completly professional  and profifiecent with python and too be at software engineer level
+- 🏡 I'm from Mandan, ND.
+- 
+- 📚 I'm currently learning about Artificial Intelligence.
+- 
+- 📚 Another goal of mine is to become completely professional and proficient in Python, aiming to reach a software engineer level.
 
  
 ---
